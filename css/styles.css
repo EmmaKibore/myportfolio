@@ -8,12 +8,15 @@ body {
   background-color:
 }
 
-font-style: marquee
+font-style: marquee;
 }
 text-decoration-style: wavy;
 }
-h1 [color:darkred
+h1 [color:darkred;
 ]
 h2 {color:blue
 
 p {color:maroon}
+class CV {
+  font-style: italic;
+}
